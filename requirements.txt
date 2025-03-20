@@ -1,5 +1,6 @@
 langchain_core
 langchain_groq
+groq
 langchain_openai
 langchain_community
 python-dotenv
@@ -16,4 +17,6 @@ faiss-cpu
 langchain_huggingface
 wikipedia
 arxiv
-langchain_hub
+langchainhub
+cohere
+langchain_cohere
