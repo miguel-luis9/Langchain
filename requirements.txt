@@ -14,3 +14,6 @@ chromadb
 sentence-transformers
 faiss-cpu
 langchain_huggingface
+wikipedia
+arxiv
+langchain_hub
